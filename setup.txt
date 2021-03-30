@@ -1,0 +1,15 @@
+After installing packages
+
+Copy i3 config
+Copy polybar config
+
+Set up xfce4 with Chicago95
+	OR
+Install chicago95 stuff from aur and pacman
+
+Install lxapperance
+
+Use xfce4-panel and xfce4-terminal
+
+xfce4-panel needs to have i3wm add on from aur
+
